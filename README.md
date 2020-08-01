@@ -1,5 +1,5 @@
 ### Hello Guys, 👋 I am mahdi 
-![Alt Text](https://github.com/mnn59/mnn59/blob/master/mygif.gif width=250px height=250px)
+![Alt Text](https://github.com/mnn59/mnn59/blob/master/mygif.gif width="250" height="250")
 
 <!--
 **mnn59/mnn59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
