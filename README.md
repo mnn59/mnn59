@@ -1,5 +1,5 @@
 ### Hello Guys, 👋 I am mahdi
-<p align="center">
+<p align="center" height=250px width=250px>
   <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"></img>
 </p>
 
