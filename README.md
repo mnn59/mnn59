@@ -1,6 +1,9 @@
 ### Hello Guys, 👋 I am mahdi
+img.rounded-corners {
+  border-radius: 30px;
+}
 <p align="center">
-  <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"  height=300px width=300px style="border-radius:50px"></img>
+  <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"  height=300px width=300px class="rounded-corners"></img>
 </p>
 
 
