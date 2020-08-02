@@ -1,8 +1,8 @@
 ### Hello Guys, 👋 I am mahdi
 <p align="center">
-  <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"  height=300px width=300px border-radius=30%></img>
+  <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"  height=300px width=300px class="image"></img>
 </p>
-img {
+.image{
   border-radius: 50%;
 }
 
