@@ -1,6 +1,6 @@
 ### Hello Guys, 👋 I am mahdi
 <p align="center">
-  <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"  height=300px width=300px style="border-radius:50%"></img>
+  <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"  height=300px width=300px style="border-radius:50px"></img>
 </p>
 
 
