@@ -4,7 +4,7 @@
 </p>
 
 
-> I am (:computer:) engineering student at <a href="https://aut.a.c.ir" style="decoration:none;">Amirkabir University of Technology</a>  :wink: 
+> I am (:computer:) engineering student at <a href="https://aut.ac.ir" style="decoration:none;">Amirkabir University of Technology</a>  :wink: 
 ---------
 
 <!--
