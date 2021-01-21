@@ -1,10 +1,23 @@
-### Hello Guys, 👋 I am mahdi
-<p align="center">
-  <img src="https://github.com/mnn59/mnn59/blob/master/mygif.gif"  height=300px width=300px ></img>
-</p>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mnn59?style=flat-square&color=blue"><br>
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=mnn59&style=flat-square&color=red">
+
+# Hi there 👋 this is mahdi!
+
+I am <b>computer engineering</b> student at <a href="https://aut.ac.ir" style="decoration:none;">Amirkabir University of Technology</a>
 
 
-> I am (:computer:) engineering student at <a href="https://aut.ac.ir" style="decoration:none;">Amirkabir University of Technology</a>  :wink: 
+
+<br>
+<br>
+<br>
+
+- mahdi
+- niknejad
+
+
+
+> I am (:computer:) engineering student at <a href="https://aut.ac.ir">Amirkabir University of Technology</a>  :wink: 
 ---------
 
 <!--
