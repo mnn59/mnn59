@@ -7,13 +7,13 @@ I am (:computer:) engineering student at <a href="https://aut.ac.ir" style="deco
 
 [![mnn59 github stats](https://github-readme-stats.vercel.app/api?username=mnn59&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/mnn59)
 
-## How's life
+## I call it my Life!
 - 💻 Currently working at <a href="https://www.bmn.ir/" target="_blank">BMN</a>
 
-## What's the weather
+## Really?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnn59&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/mnn59)
 
-## What I know a bit 
+## A bit Knowledge 
 ![Vue](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
@@ -24,7 +24,7 @@ I am (:computer:) engineering student at <a href="https://aut.ac.ir" style="deco
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
-## How to reach me
+## Contact me
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/mahdi_niknejaad)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/mhdnknjd)
 [<img src="https://www.vectorlogo.zone/logos/keybase/keybase-tile.svg" width="32">](https://keybase.io/mahdi76)
