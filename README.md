@@ -3,12 +3,12 @@
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=mnn59&style=flat-square&color=red">
 
 # Hi there 👋 this is mahdi!
-I am (:computer:) engineering student at <a href="https://aut.ac.ir" style="decoration:none;">Amirkabir University of Technology</a>  :wink: 
+- I am (:computer:) engineering student at <a href="https://aut.ac.ir" style="decoration:none;">Amirkabir University of Technology</a>  :wink: 
 
 [![mnn59 github stats](https://github-readme-stats.vercel.app/api?username=mnn59&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/mnn59)
 
 ## I call it my Life!
-- 💻 Currently working at <a href="https://www.bmn.ir/" target="_blank">BMN</a>
+- Currently working at <a href="https://www.bmn.ir/" target="_blank">BMN</a>
 
 ## Really?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnn59&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/mnn59)
