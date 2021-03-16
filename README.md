@@ -15,6 +15,7 @@
 
 ## A bit Knowledge 
 ![Vue](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
